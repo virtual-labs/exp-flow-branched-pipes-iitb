@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Three reservoirs A, B, C are connected by a pipe system. The lengths and diameter of pipes 1, 2, 3 are 800m, 1000m, 800m and 300mm, 200mm, 150mm respectively. Determine piezometric head at D. ZA = 62m, ZB = 39m, ZC = 27m. Take f = 0.005. Refer diagram from simulation.",
+      "qid": 1,
+      "option_a": "51.3m",
+      "option_b": "53.4m",
+      "option_c": "56.6m",
+      "option_d": "60.5m",
+      "correct_option": "c"
+   },
+   {
+      "question": "Three reservoirs A, B, C are connected by a pipe system. The lengths and diameter of pipes 1, 2, 3 are 800m, 1000m, 800m and 300mm, 200mm, 150mm respectively. Determine piezometric head at D. ZA = 60m, ZB = 36m, ZC = 29m. Take f = 0.005. Refer diagram from simulation.",
+      "qid": 2,
+      "option_a": "59.7m",
+      "option_b": "50.1m",
+      "option_c": "59.3m",
+      "option_d": "54.7m",
+      "correct_option": "d"
+   }
+]
